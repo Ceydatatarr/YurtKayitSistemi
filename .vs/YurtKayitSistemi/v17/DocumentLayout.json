@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Yeni klas\u00F6r\\YurtKayitSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24DE8454-1059-4960-AC16-EAC6C7588D34}|YurtKayitSistemi\\YurtKayitSistemi.csproj|c:\\users\\lenovo\\desktop\\yeni klas\u00F6r\\yurtkayitsistemi\\yurtkayitsistemi\\frmodemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DE8454-1059-4960-AC16-EAC6C7588D34}|YurtKayitSistemi\\YurtKayitSistemi.csproj|solutionrelative:yurtkayitsistemi\\frmodemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DE8454-1059-4960-AC16-EAC6C7588D34}|YurtKayitSistemi\\YurtKayitSistemi.csproj|c:\\users\\lenovo\\desktop\\yeni klas\u00F6r\\yurtkayitsistemi\\yurtkayitsistemi\\frmodemeler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DE8454-1059-4960-AC16-EAC6C7588D34}|YurtKayitSistemi\\YurtKayitSistemi.csproj|solutionrelative:yurtkayitsistemi\\frmodemeler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DE8454-1059-4960-AC16-EAC6C7588D34}|YurtKayitSistemi\\YurtKayitSistemi.csproj|c:\\users\\lenovo\\desktop\\yeni klas\u00F6r\\yurtkayitsistemi\\yurtkayitsistemi\\yurtkayitdataset10.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{24DE8454-1059-4960-AC16-EAC6C7588D34}|YurtKayitSistemi\\YurtKayitSistemi.csproj|solutionrelative:yurtkayitsistemi\\yurtkayitdataset10.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmOdemeler.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Yeni klas\u00F6r\\YurtKayitSistemi\\YurtKayitSistemi\\FrmOdemeler.cs",
+              "RelativeDocumentMoniker": "YurtKayitSistemi\\FrmOdemeler.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Yeni klas\u00F6r\\YurtKayitSistemi\\YurtKayitSistemi\\FrmOdemeler.cs",
+              "RelativeToolTip": "YurtKayitSistemi\\FrmOdemeler.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAWwE0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:09:38.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmOdemeler.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Yeni klas\u00F6r\\YurtKayitSistemi\\YurtKayitSistemi\\FrmOdemeler.Designer.cs",
+              "RelativeDocumentMoniker": "YurtKayitSistemi\\FrmOdemeler.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Yeni klas\u00F6r\\YurtKayitSistemi\\YurtKayitSistemi\\FrmOdemeler.Designer.cs",
+              "RelativeToolTip": "YurtKayitSistemi\\FrmOdemeler.Designer.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAUwKIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:06:38.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YurtKayitDataSet10.xsd",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Yeni klas\u00F6r\\YurtKayitSistemi\\YurtKayitSistemi\\YurtKayitDataSet10.xsd",
+              "RelativeDocumentMoniker": "YurtKayitSistemi\\YurtKayitDataSet10.xsd",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Yeni klas\u00F6r\\YurtKayitSistemi\\YurtKayitSistemi\\YurtKayitDataSet10.xsd",
+              "RelativeToolTip": "YurtKayitSistemi\\YurtKayitDataSet10.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-18T17:06:20.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
